@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Entei25/Entei25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 - 🌱 I’m currently  trying to learning machine learning, Web programming, aws 
 
@@ -26,5 +21,13 @@ Here are some ideas to get you started:
     <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /> 
 	
 </p>
+
+
+<!--
+**Entei25/Entei25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 
 
